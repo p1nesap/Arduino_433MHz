@@ -1,5 +1,5 @@
 // Copyright (C) 2008 Mike McCauley
-//with additional sections for LCD by P1nesap on Youtube: https://youtu.be/Q2iECOsfCqA
+//with additional sections for LCD by Appliance Paul on Youtube: https://youtu.be/Q2iECOsfCqA
 
 
 #include <VirtualWire.h>
